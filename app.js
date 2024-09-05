@@ -7,6 +7,8 @@
                window.location.href="rostom.html"
             }else if(test.value== "A04970011"){
                 window.location.href="roman.html"
+            }else if (test.Value == "A06328866"){
+                window.location.href="al_amin.html"
             }                                      
             else{
                  alert("invalid Passport")
