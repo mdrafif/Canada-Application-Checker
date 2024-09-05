@@ -9,7 +9,9 @@
                 window.location.href="roman.html"
             }else if(test.value== "A06328866"){
                 window.location.href="alamin.html"
-            }   
+            }else if(test.value=="A06328866"){
+                window.location.href="alamin.html"
+            }
             else{
                  alert("invalid Passport")
             }
